@@ -59,3 +59,9 @@ V3.png
 
 ## 🛠️ Technical Details
 The tool is built using Python and compiled into an executable for easy distribution and use.
+
+
+https://github.com/user-attachments/assets/8a95df20-9283-4b68-a90e-293efa9e72fb
+
+
+
