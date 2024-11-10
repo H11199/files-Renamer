@@ -1,9 +1,9 @@
 ('C:\\Users\\TPW USER\\Downloads\\dist\\FilesRenamer.exe',
- False,
+ True,
  False,
  False,
  'C:\\Users\\TPW '
- 'USER\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-windowed.ico',
+ 'USER\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-console.ico',
  None,
  False,
  False,
@@ -111,10 +111,10 @@
  [],
  False,
  False,
- 1731224459,
- [('runw.exe',
+ 1731226772,
+ [('run.exe',
    'C:\\Users\\TPW '
-   'USER\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
+   'USER\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',
    'EXECUTABLE')],
  'C:\\Users\\TPW '
  'USER\\AppData\\Local\\Programs\\Python\\Python313\\python313.dll')

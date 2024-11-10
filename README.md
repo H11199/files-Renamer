@@ -15,10 +15,10 @@ The **File Renamer** is a simple and efficient console-based tool designed to he
 - **Ease of Use**: Simple to use, even for non-technical users.
 
 ## 🚀 How to Use
-1. **Download the `FileRenamer.exe`** and save it to a convenient location on your computer.
+1. **Download the `FilesRenamer.exe`** and save it to a convenient location on your computer.
 2. **Open Command Prompt**:
    - Press `Win + R`, type `cmd`, and press `Enter`.
-3. **Navigate to the directory** containing `FileRenamer.exe`:
+3. **Navigate to the directory** containing `FilesRenamer.exe`:
    ```bash
    cd path\to\your\directory
 4. **Run the application**:

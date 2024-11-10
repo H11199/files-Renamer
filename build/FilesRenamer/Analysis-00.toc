@@ -452,6 +452,10 @@
    'C:\\Users\\TPW '
    'USER\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\ast.py',
    'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\TPW '
+   'USER\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tracemalloc.py',
+   'PYMODULE'),
   ('_py_abc',
    'C:\\Users\\TPW '
    'USER\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_py_abc.py',
@@ -459,10 +463,6 @@
   ('_colorize',
    'C:\\Users\\TPW '
    'USER\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\_colorize.py',
-   'PYMODULE'),
-  ('tracemalloc',
-   'C:\\Users\\TPW '
-   'USER\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\tracemalloc.py',
    'PYMODULE'),
   ('stringprep',
    'C:\\Users\\TPW '
